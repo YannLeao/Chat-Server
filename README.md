@@ -6,12 +6,15 @@ Este é o **Projeto 1 da disciplina de Redes de Computadores** do curso de Engen
 
 No projeto foi dado a opção entre **Python** ou **C++**. esse primeiro momento optei por Python.
 
-### Tecnologias e Bibliotecas Utilizadas
-- **Python** e **Socket**: implementando a comunicação entre múltiplos clientes via servidor.
-- **Threading**: gerenciamento de threads para cada cliente conectado.
-- **Tkinter**: interface gráfica.
+## Ferramentas utilizadas
 
----
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Tkinter-FFCD00?style=for-the-badge&logo=python&logoColor=black" alt="Tkinter">
+</div>
+
+
+> O projeto utiliza programação com threads e sockets para permitir comunicação em tempo real entre clientes.
 
 ## Funcionalidades por Versão
 
